@@ -9,10 +9,10 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
-    <a href="Barayev.aspx">Page1</a>
-    <h1>Master Page start</h1>
+
+    <h1>NoanB66's web site</h1>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
-    <h1>Master Page end</h1>
+
 </body>
 </html>
